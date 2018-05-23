@@ -1,0 +1,2 @@
+https://developer.nordicsemi.com/nRF5_SDK/nRF5_SDK_v15.x.x/
+nRF5_SDK_15.0.0_a53641a.zip
