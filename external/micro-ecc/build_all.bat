@@ -13,12 +13,5 @@ IF NOT EXIST micro-ecc/uECC.c (
     git clone https://github.com/kmackay/micro-ecc.git
 )
 
-make -C nrf51_armgcc/armgcc
-make -C nrf51_iar/armgcc
-make -C nrf51_keil/armgcc
 make -C nrf52hf_armgcc/armgcc
-make -C nrf52hf_iar/armgcc
-make -C nrf52hf_keil/armgcc
 make -C nrf52nf_armgcc/armgcc
-make -C nrf52nf_iar/armgcc
-make -C nrf52nf_keil/armgcc
