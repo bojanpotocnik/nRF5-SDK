@@ -22,6 +22,7 @@ ses_*.s
 # Depreceted files
 *deprecated*
 *[nN][rR][fF]51*
+!nrf51_to_nrf52.h
 
 # Documentation
 # Ignore contents of the doc directory, not the directory itself, because of the following negated rule.
